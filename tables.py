@@ -16,6 +16,3 @@ c=0
 while c<356:
 	a(c)
 	c = c + 1
-
-tables.py
-Displaying tables.py.
